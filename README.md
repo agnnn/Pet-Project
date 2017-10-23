@@ -1,2 +1,2 @@
 # Pet-Project
-Added Webhooks for Jenkins Test builds
+A sample Blockchain implementation using Ethereum, Truffle, TestRPC
